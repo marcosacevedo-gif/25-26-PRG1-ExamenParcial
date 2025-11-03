@@ -86,10 +86,3 @@ System.out.print(habitacion == 3 ? COLUMNA_CENTRAL: "");
 
 ¿Qué observas en este código?
 
----
-
-## Criterios de evaluación
-
-- Identificación correcta del error: 40%
-- Explicación del porqué es un error: 30%
-- Propuesta de corrección válida: 30%

@@ -8,7 +8,7 @@
 
 ## Instrucciones
 
-A continuación encontrarás 5 fragmentos de código extraídos de tus entregas. Cada fragmento contiene una o más situaciones relacionadas con los conceptos vistos en clase.
+A continuación encontrarás fragmentos de código extraídos de tus entregas. Cada fragmento contiene una o más situaciones relacionadas con los conceptos vistos en clase.
 
 Para cada pregunta debes:
 1) Identificar a qué se refiere la observación
@@ -163,10 +163,3 @@ System.out.print(!abierta ? VENTANA_CERRADA: encendida ? VENTANA_CON_LUZ_ENCENDI
 
 ¿Qué observas en este código?
 
----
-
-## Criterios de evaluación
-
-- Identificación correcta del error: 40%
-- Explicación del porqué es un error: 30%
-- Propuesta de corrección válida: 30%

@@ -84,10 +84,3 @@ class batallaExtendida {
 
 ¿Qué observas en este código?
 
----
-
-## Criterios de evaluación
-
-- Identificación correcta del error: 40%
-- Explicación del porqué es un error: 30%
-- Propuesta de corrección válida: 30%
