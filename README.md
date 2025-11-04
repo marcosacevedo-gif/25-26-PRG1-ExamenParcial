@@ -2,7 +2,7 @@
 
 ||Qué|Cómo|
 |:-:|:-:|:-:|
-<sub>Exámenes generados a partir del código de cada estudiante, extraído de sus PRs excepto en los estudiantes que no han realizado ninguna entrega.|<sub>Elija y responda de las preguntas que tiene disponibles, cinco que presenten un error o escenario cuestionable.|<sub>Las respuestas y justificaciones deben estar **exquisitamente relacionadas** a lo debatido en clase y hacer uso del vocabulario y los términos y criterios aprendidos
+<sub>Exámenes generados a partir del código de cada estudiante, extraído de sus PRs excepto en los estudiantes que no han realizado ninguna entrega.|<sub>Elija y responda de las preguntas que tiene disponibles, las cinco que presenten los errores o escenarios más cuestionables.|<sub>Las respuestas y justificaciones deben estar **exquisitamente relacionadas** a lo debatido en clase y hacer uso del vocabulario y los términos y criterios aprendidos
 
 **Criterios de evaluación:**
 
